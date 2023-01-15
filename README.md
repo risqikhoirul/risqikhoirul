@@ -1,7 +1,7 @@
 ### Hi there 👋
 **I'am M Khoirul Risqi**
 
-*I am an informatics engineering student at one of the universities in Indonesia. I explore blockchain technology, I am a cryptocurrency enthusiast, currently I am focusing more on exploring web developers.*
+*I am an informatics engineering student at one of the universities in Indonesia, Universitas nahdlatul ulama sunan Giri (UNUGIRI Bojonegoro). I explore blockchain technology, I am a cryptocurrency enthusiast, currently I am focusing more on exploring web developers.*
 
 - 🌱 I am currently learning JavaScript, Php, Java, and Python. 
 - 👯 I would like to collaborate on web projects as well as automated bots.
